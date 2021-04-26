@@ -292,6 +292,11 @@ a:hover {
     z-index: 1;
 }
 
+.keywords {
+    color: #525252;
+    font-size: 1px;
+}
+
 .navbar-brand {
     height: auto;
     padding: 3px 15px;
@@ -650,8 +655,10 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
-    color: #575757!important;
+    font-weight: bolder;
+    font-size: 18px;
+    /* color: #575757!important; */
+    color: #424242!important;
 }
 
 .container {
@@ -739,6 +746,31 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.text-bold {
+    font-weight: bolder;
+    font-size: 18px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.icon-bold {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.size {
+    font-size: 18px;
+}
+
+.margin-div-footer {
+    margin-top: 20px;
+}
+
+.padding-bottom {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -772,6 +804,7 @@ h4 {
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
+    /* background-color: #CB4B10; */
 }
 
 .tc-white {
