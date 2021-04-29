@@ -656,7 +656,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: bolder;
-    font-size: 18px;
+    font-size: 14px;
     /* color: #575757!important; */
     color: #424242!important;
 }
@@ -684,7 +684,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -855,7 +855,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
