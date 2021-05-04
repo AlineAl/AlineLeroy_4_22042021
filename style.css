@@ -652,6 +652,10 @@ h1, h4 {
         padding-left: 0;
         padding-right: 0;
     }
+
+    .padding-navbar-page2 {
+        padding: 8px;
+    }
     .bloc-tile-2 .container, .bloc-tile-3 .container, .bloc-tile-4 .container, .bloc-fill-screen .fill-bloc-top-edge, .bloc-fill-screen .fill-bloc-bottom-edge {
         padding-left: 0;
         padding-right: 0;
@@ -712,6 +716,12 @@ h1, h4 {
  }
 
  @media (max-width: 768px) {
+
+    .navbar-toggle-page2 {
+        top: 9px;
+        margin: 0px;
+    }
+
     .img-title-index {
         margin-bottom: 0px;
         width: 100%;
