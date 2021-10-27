@@ -14,6 +14,9 @@ This is a project of Openclassrooms. Improve the accessibility, performance and 
 
 ![Cover](https://github.com/AlineAl/AlineLeroy_4_22042021/blob/master/img/Capture%20d%E2%80%99e%CC%81cran%202021-10-27%20a%CC%80%2016.46.52.png)
 ![Cover](https://github.com/AlineAl/AlineLeroy_4_22042021/blob/master/img/Capture%20d%E2%80%99e%CC%81cran%202021-10-27%20a%CC%80%2016.47.27.png)
+![Cover](https://github.com/AlineAl/AlineLeroy_4_22042021/blob/master/img/Capture%20d%E2%80%99e%CC%81cran%202021-10-27%20a%CC%80%2017.10.53.png)
+![Cover](https://github.com/AlineAl/AlineLeroy_4_22042021/blob/master/img/Capture%20d%E2%80%99e%CC%81cran%202021-10-27%20a%CC%80%2017.09.37.png)
+
 
 ## 💾 Step by step
 
