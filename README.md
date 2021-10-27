@@ -4,7 +4,7 @@
 
 ### Optimize an existing website
 
-This is a project of Openclassrooms. Reproduce a model using responsive design and adding CSS animations.
+This is a project of Openclassrooms. Improve the accessibility, performance and SEO of a web page.
 
 ## 🛠 Technologies I use to code
 
