@@ -20,3 +20,9 @@ This is a project of Openclassrooms. Improve the accessibility, performance and 
 ## 🔌 Points to improve
 
 ## 🧬 My references
+
+https://web.dev/
+
+https://www.matthieu-tranvan.fr/referencement-naturel/checklist-seo-25-bonnes-pratiques-on-site-pour-renforcer-votre-referencement-naturel.html
+
+Lighthouse with Google
