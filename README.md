@@ -2,7 +2,7 @@
 
 ![Cover](https://github.com/AlineAl/AlineLeroy_2_17122020/blob/main/images/Aline_github.001.png)
 
-### Energize a web page with CSS animations
+### Optimize an existing website
 
 This is a project of Openclassrooms. Reproduce a model using responsive design and adding CSS animations.
 
@@ -11,6 +11,9 @@ This is a project of Openclassrooms. Reproduce a model using responsive design a
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 🎥 Screenshot of my work
+
+![Cover](https://github.com/AlineAl/AlineLeroy_4_22042021/blob/master/img/Capture%20d%E2%80%99e%CC%81cran%202021-10-27%20a%CC%80%2016.46.52.png)
+![Cover](https://github.com/AlineAl/AlineLeroy_4_22042021/blob/master/img/Capture%20d%E2%80%99e%CC%81cran%202021-10-27%20a%CC%80%2016.47.27.png)
 
 ## 💾 Step by step
 
