@@ -20,12 +20,23 @@ This is a project of Openclassrooms. Improve the accessibility, performance and 
 
 ## 💾 Step by step
 
+For this project, I first analyzed the problems encountered. I noticed that it was necessary to compress the images, to work on the ratio of the colors and the size of the images. I also paid particular attention to SEO (add a 'meta description' for example).
+
+
+This project gave me all the essentials to know for better performance, accessibility and SEO on the web. I was able to apply them to the design of my website.
+
 ## 🔌 Points to improve
+
+In designing my website, I put the emphasis on accessibility. It seemed important to me to make my site accessible to as many people as possible.
+
+I was also able to pay attention to the use of certain libraries which are sometimes vulnerable and which can reduce the performance of the site.
 
 ## 🧬 My references
 
 https://web.dev/
 
 https://www.matthieu-tranvan.fr/referencement-naturel/checklist-seo-25-bonnes-pratiques-on-site-pour-renforcer-votre-referencement-naturel.html
+
+https://webaim.org/resources/contrastchecker/
 
 Lighthouse with Google
